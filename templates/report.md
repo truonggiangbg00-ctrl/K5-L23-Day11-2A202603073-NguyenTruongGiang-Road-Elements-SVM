@@ -7,19 +7,19 @@ Thời điểm export (ngày giờ trên CVAT):    Số lần nộp lại sau Re
 ## 1. Kiểm project
 | Mục | Đúng như guideline Road v1.0? | Ghi chú |
 | --- | --- | --- |
-| 6 label, đúng kiểu |  |  |
-| Thuộc tính và giá trị |  |  |
-| 4 tag ảnh |  |  |
-Cách kết thúc polyline trên bản CVAT này:  
-Cách đặt tag ảnh trên bản CVAT này:  
+| 6 label, đúng kiểu | Đã dùng đủ `lane`, `road_curb`, `crosswalk`, `drivable`, `traffic_light`, `traffic_sign`. |  |
+| Thuộc tính và giá trị | Các giá trị đã có thuộc tính theo nhãn: `position/style/color/kind`, `area_type`, `color/type/facing`, `group/facing`, `edge_zone`. |  |
+| 4 tag ảnh | Đủ tag ở 28 ảnh, có đủ các tag camera , timeofday, weather, source. |  |
+Cách kết thúc polyline trên bản CVAT này: Chọn công cụ Polyline, label lane, rồi bấm Shape. Click lần lượt các điểm trên tâm vệt sơn. Bắt đầu từ phía gần xe (đáy ảnh) và đi ra xa, xong thì bấm phím N để kết thúc.
+Cách đặt tag ảnh trên bản CVAT này: Dùng công cụ Tag ở thanh bên trái. Đặt camera trước, sau đó timeofday, weather, source. Trong bảng Objects, mở Details của từng tag để kiểm giá trị.
 
 ## 2. Số lượng đã gán
 | Task | Ảnh | lane | road_curb | crosswalk | drivable | traffic_light | traffic_sign |
 | --- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
-| front | 12 |  |  |  |  |  |  |
-| front-extra (đã làm __ / 4) |  |  |  |  |  |  |  |
-| fisheye | 8 |  |  |  |  |  |  |
-| fisheye-extra (đã làm __ / 4) |  |  |  |  |  |  |  |
+| front | 12 | 35 | 9 | 4 | 24 | 20 | 16 |
+| front-extra (đã làm 4 / 4) | 12 | 4 | 2 | 8 | 2 | 10 |  |
+| fisheye | 8 | 8 | 11 | 8 | 8 | 2 | 1 |
+| fisheye-extra (đã làm 4 / 4) | 0 | 2 | 5 | 4 | 0 | 0 |  |
 
 ## 3. Bảng ca khó
 | Ảnh | Nhãn | Phân vân giữa | Đã chọn | Lý do |

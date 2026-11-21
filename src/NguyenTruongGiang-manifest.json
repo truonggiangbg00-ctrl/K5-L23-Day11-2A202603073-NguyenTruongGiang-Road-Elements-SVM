@@ -1,0 +1,81 @@
+{
+  "manifest": "road-delivery/1",
+  "format": "CVAT for images 1.1",
+  "guideline": "Road v1.0",
+  "name": "NguyenTruongGiang",
+  "revision": 1,
+  "created_at": "2026-11-21T04:02:01+00:00",
+  "files": [
+    {
+      "file": "NguyenTruongGiang-front.zip",
+      "bytes": 48873,
+      "sha256": "f6e2b2ed35d025a38f8c35cd88975a24722822892b90d0c9f27eaff64f845a89",
+      "contains_images": false,
+      "images": 12,
+      "images_unlabelled": 0,
+      "images_all_tags": 12,
+      "shapes_by_label": {
+        "crosswalk": 4,
+        "drivable": 24,
+        "lane": 35,
+        "road_curb": 9,
+        "traffic_light": 20,
+        "traffic_sign": 16
+      }
+    },
+    {
+      "file": "NguyenTruongGiang-fisheye.zip",
+      "bytes": 26194,
+      "sha256": "d370bfebe318cfe6e3a6c97ef894faa206b2603b0bf5cdbb6c63f4f77fb4d518",
+      "contains_images": false,
+      "images": 8,
+      "images_unlabelled": 0,
+      "images_all_tags": 8,
+      "shapes_by_label": {
+        "crosswalk": 8,
+        "drivable": 8,
+        "lane": 8,
+        "road_curb": 11,
+        "traffic_light": 2,
+        "traffic_sign": 1
+      }
+    },
+    {
+      "file": "NguyenTruongGiang-front-extra.zip",
+      "bytes": 20975,
+      "sha256": "f5948326cba0072bab89b2e5eb3e54997caac1e98db712bc2e0b51b25e0a0af1",
+      "contains_images": false,
+      "images": 4,
+      "images_unlabelled": 0,
+      "images_all_tags": 4,
+      "shapes_by_label": {
+        "crosswalk": 2,
+        "drivable": 8,
+        "lane": 12,
+        "road_curb": 4,
+        "traffic_light": 2,
+        "traffic_sign": 10
+      }
+    },
+    {
+      "file": "NguyenTruongGiang-fisheye-extra.zip",
+      "bytes": 13473,
+      "sha256": "eeb1d225db24d9d624ff522778bf0e6e4dc7178ce3fffa3defc6dcbef53d7a78",
+      "contains_images": false,
+      "images": 4,
+      "images_unlabelled": 0,
+      "images_all_tags": 4,
+      "shapes_by_label": {
+        "crosswalk": 5,
+        "drivable": 4,
+        "road_curb": 2
+      }
+    }
+  ],
+  "lint": {
+    "nặng": 6,
+    "chính": 6,
+    "nhẹ": 0
+  },
+  "note": "Tạo bởi road_check lint. Mô tả file đã gửi, không phải kết luận chất lượng."
+}

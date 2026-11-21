@@ -1,7 +1,7 @@
 # Báo cáo cá nhân — Ngày 11
-Họ tên:               Mã học viên:  
+Họ tên:   Nguyễn Trường Giang            Mã học viên:  2A202603073
 Phiên bản CVAT (Help → About):  
-Guideline: Road v1.0    Lần nộp (`revision` trong manifest):  
+Guideline: Road v1.0    Lần nộp (`revision` trong manifest):  1
 Thời điểm export (ngày giờ trên CVAT):    Số lần nộp lại sau Rework:  
 
 ## 1. Kiểm project
@@ -31,7 +31,9 @@ Thời điểm export (ngày giờ trên CVAT):    Số lần nộp lại sau Re
 ## 4. Phiếu QC 1 nhận được
 Bạn kiểm lô của tôi:  Quyết định nhận được:  
 | Mã lỗi | Số lỗi | Đồng ý? | Đã sửa? |
-| QC1-05 chính | 5 | Đã nhận | Không cần sửa vì đó là đường kẻ đôi |
+| --- | --- | --- | --- |
+| QC1-05 | 5 | Đã nhận | Không cần sửa vì đó là đường kẻ đôi |
+| QC1-02 | 6 | Đã nhận | Không cần sửa vì thật sự không có vạch L1 và R1 |
 
 ## 5. Kiểm file export
 | File | Mở lại được? | Số shape ảnh 1 (job / file) | Số shape ảnh 2 (job / file) | Tag camera có trong XML? |

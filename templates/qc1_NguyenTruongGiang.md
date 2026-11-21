@@ -39,12 +39,12 @@ Số ảnh kiểm: 6 (+ __ ảnh thêm, ghi riêng)   Số nhãn đã kiểm (sh
 
 ## Ca mơ hồ
 | Ảnh | Câu hỏi cho lead | Lời đáp (nếu có) |
-| --- | --- | --- | --- | --- | --- |
-| A05 | Ảnh này không có vạch kẻ L1 R1 và chờ lead xác nhận đúng hay không | --- |
-| A06 | Ảnh này không có vạch kẻ L1 R1 và chờ lead xác nhận đúng hay không | --- |
-| A07 | Ảnh này không có vạch kẻ L1 và chờ lead xác nhận đúng hay không | --- |
-| A09 | Ảnh này không có vạch kẻ R1 và chờ lead xác nhận đúng hay không | --- |
-| A14 | Ảnh này không có vạch kẻ R1 và chờ lead xác nhận đúng hay không | --- |
+| --- | --- | --- |
+| A05 | Ảnh này không có vạch kẻ L1 R1 và chờ lead xác nhận đúng hay không |  |
+| A06 | Ảnh này không có vạch kẻ L1 R1 và chờ lead xác nhận đúng hay không |  |
+| A07 | Ảnh này không có vạch kẻ L1 và chờ lead xác nhận đúng hay không |  |
+| A09 | Ảnh này không có vạch kẻ R1 và chờ lead xác nhận đúng hay không |  |
+| A14 | Ảnh này không có vạch kẻ R1 và chờ lead xác nhận đúng hay không |  |
 
 ## Quyết định
 Lỗi nặng: 6   Lỗi chính: 6 / 196 nhãn = 3 %   Lỗi nhẹ: 0   Ca chờ lead: 6  

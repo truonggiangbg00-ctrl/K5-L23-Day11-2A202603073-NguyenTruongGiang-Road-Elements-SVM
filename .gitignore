@@ -5,5 +5,4 @@ data/
 coach_gt/
 submissions/
 out/
-*.zip
 .env

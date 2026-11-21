@@ -1,8 +1,8 @@
 # Báo cáo cá nhân — Ngày 11
-Họ tên:   Nguyễn Trường Giang            Mã học viên:  2A202603073
-Phiên bản CVAT (Help → About):  CVAT 2.16 (CVAT for images 1.1)
-Guideline: Road v1.0    Lần nộp (`revision` trong manifest):  1
-Thời điểm export (ngày giờ trên CVAT):  21/11/2026 11:39:04 (04:39:04 UTC)    Số lần nộp lại sau Rework:  0
+- Họ tên:   Nguyễn Trường Giang            Mã học viên:  2A202603073
+- Phiên bản CVAT (Help → About):  CVAT 2.16 (CVAT for images 1.1)
+- Guideline: Road v1.0    Lần nộp (`revision` trong manifest):  1
+- Thời điểm export (ngày giờ trên CVAT):  21/11/2026 11:39:04 (04:39:04 UTC)    Số lần nộp lại sau Rework:  0
 
 ## 1. Kiểm project
 | Mục | Đúng như guideline Road v1.0? | Ghi chú |
